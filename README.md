@@ -1,5 +1,5 @@
 # Digit-cancelling-fractions
-This problem is too easy if I make int str data and use prime_number algorithm to value of the denominator. My next chapter is to make this codes matured by studying other codes that other developers has constructed.
+This problem is too easy if I make int str data and use prime_number algorithm to value of the denominator. But I think my codes is too rought compared to matured developlers yet.So my next chapter is to make this codes matured by studying other codes that other developers has constructed.
 
 list1=[]
 list2=[]
